@@ -6,3 +6,5 @@ firmware_url = "https://raw.githubusercontent.com/arifGokhan/ESP32_ota/main/"
 ota_updater = OTAUpdater(SSID, PASSWORD, firmware_url, "test_ota.py")
 
 ota_updater.download_and_install_update_if_available()
+
+#deneme
